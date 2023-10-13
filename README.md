@@ -1,2 +1,1 @@
-# Bangla-Continuous-Sign-Language-Recognition
- Bangla
+We provide a hybrid model called the "Hybrid Efficient Convolution" (HEC) framework, which ensembles EfficientNet-B3 and a few modified layers as an alternative to traditional machine learning techniques with improved accuracy and efficiency. We created our own gesture dataset, called "BdSL_OPA_23_GESTURES", which consists of 6000 videos of 100 Bangla words, with 60 videos for each word by 20 different people. It is collected in 5 different background types: solid, ambiguous (indoor), clattered (indoor), ambiguous (outdoor), and clattered (outdoor). In a small number of epochs, our "Hybrid Efficient Convolution" (HEC) framework provided superior accuracy of 93.17% on our "BdSL_OPA_23_GESTURES" dataset.
